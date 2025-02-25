@@ -1,0 +1,5 @@
+pygame==2.5.2
+numpy==1.26.3
+pytube==15.0.0
+selenium==4.17.2
+webdriver_manager==4.0.1
